@@ -1,0 +1,23 @@
+----- App Name
+JSON Formatter
+
+-----Sort description
+Reformat the JSON document
+
+-----Description
+What is JSON?
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999.
+Feature:
+- Nice fast formatting of JSON documents.
+- Paste / copy / clear with 1 click.
+
+-----Key (name_key | price) or pick price [29.99, 49.99, 79.99, 99.99, 149.99, 199.99]
+premium_week 	| 29.99
+premium_1_month | 49.99
+premium_3_month | 79.99
+premium_6_month	| 99.99
+premium_year	| 149.99
+
+Content key: (one week / one month / 3 months / 6 months / one year)
+- Title: Remove ads one week.
+- Content: Upgrade the premium package for the best application experience.
